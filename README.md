@@ -1,4 +1,4 @@
-![Uploading image.png…]()
+48c4f495-ce3f-43a3-8a6a-7cae0e168219.jpeg
 
  # lerato-smartroom
  ## Table of contents
