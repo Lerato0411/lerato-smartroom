@@ -1,5 +1,3 @@
-48c4f495-ce3f-43a3-8a6a-7cae0e168219.jpeg
-
  # lerato-smartroom
  ## Table of contents
 ## Table of Contents
@@ -12,8 +10,6 @@
 - [Installation](#installation)
 - [Usage](#usage)
 - [Screenshots](#screenshots)
-- [Contributing](#contributing)
-- [License](#license)
 
 - ## Overview
 
@@ -25,7 +21,6 @@ This project enables automated control of room lighting and fan speed based on a
 - Automated control of LED lighting and fan speed
 - Manual override capabilities via the frontend dashboard
 - Responsive web interface built with Flet
-- RESTful API endpoints for seamless communication between components
 
 ## System Architecture
 
@@ -74,7 +69,6 @@ This project enables automated control of room lighting and fan speed based on a
 ### Flask Backend
 
 1. Navigate to the backend directory:
-   ```bash
    cd backend
 pip install -r requirements.txt
 python app.py
@@ -83,13 +77,6 @@ cd frontend
 pip install flet requests
 python main.py
 
-
-### 9. **Usage**
-
-Explain how to operate the system after installation.
-
-**Example:**
-```markdown
 ## Usage
 
 - Ensure the ESP32 is powered and connected to WiFi.
@@ -104,10 +91,6 @@ Explain how to operate the system after installation.
 
 ![Hardware Setup](images/hardware_setup.png)
 *ESP32 connected with sensors and actuators.*
-
-## Contributing
-
-Contributions are welcome! Please fork the repository and submit a pull request with your enhancements or bug fixes.
 
 
 
