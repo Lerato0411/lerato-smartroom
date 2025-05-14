@@ -89,14 +89,16 @@ python main.py
 
 ![Screenshot 2025-05-14 231316](https://github.com/user-attachments/assets/ea4feaaf-6c87-4748-b142-143d9815ca04)
 
-![Dashboard Overvie!w]( )
-[Screenshot 2025-05-14 231455](https://github.com/user-attachments/assets/042b29fb-b3cb-4722-83c6-0f55fc37e39b)
+![Dashboard Overview]( )
+![Screenshot 2025-05-14 231455](https://github.com/user-attachments/assets/042b29fb-b3cb-4722-83c6-0f55fc37e39b)
 
 *Dashboard displaying real-time sensor data and control options.*
 
-![Hardware Setup]
-(images/hardware!
-*ESP32 connected with sensors and actuators.*
+![Hardware Setup](images/hardware!)
+*![hardware](https://github.com/user-attachments/assets/ed3fbd6d-7fc3-4dc2-9fab-75181cac35b0)
+ESP32 connected with sensors and actuators.*
+
+
 
 
 
