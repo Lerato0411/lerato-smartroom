@@ -1,3 +1,5 @@
+![Home Automation Made Easy  Turn your home into a…](https://github.com/user-attachments/assets/4d1d81da-22d9-4192-acec-f9cff67eef8b)
+
  # lerato-smartroom
  ## Table of contents
 ## Table of Contents
@@ -85,11 +87,14 @@ python main.py
 - Use the dashboard to monitor sensor readings and control the LED and fan manually if desired.
 
 ## Screenshots
+![Screenshot 2025-05-14 231316](https://github.com/user-attachments/assets/ea4feaaf-6c87-4748-b142-143d9815ca04)
 
-![Dashboard Overview](images/dashboard_overview.png)
+![Dashboard Overvie![Screenshot 2025-05-14 231455](https://github.com/user-attachments/assets/042b29fb-b3cb-4722-83c6-0f55fc37e39b)
+w]( )
 *Dashboard displaying real-time sensor data and control options.*
 
-![Hardware Setup](images/hardware_setup.png)
+![Hardware Setup](images/hardware![Uploading WhatsApp Image 2025-05-15 at 00.21.28_d9ca31f4.jpg…]()
+_setup.png)
 *ESP32 connected with sensors and actuators.*
 
 
