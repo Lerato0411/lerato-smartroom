@@ -1,2 +1,4 @@
-﻿# lerato-smartroom
+![Uploading image.png…]()
+
+ # lerato-smartroom
  table of contents
