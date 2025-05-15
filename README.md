@@ -70,13 +70,16 @@ This project enables automated control of room lighting and fan speed based on a
 ### Flask Backend
 
 1. Navigate to the backend directory:
-   cd backend
-pip install -r requirements.txt
-python app.py
+
+-cd backend
+-pip install -r requirements.txt
+-python app.py
+
 2.Navigate to the frontend directory:
-cd frontend
-pip install flet requests
-python main.py
+
+ -cd frontend
+ -pip install flet requests
+ -python main.py
 
 ## Usage
 
@@ -87,20 +90,29 @@ python main.py
 
 ## Screenshots
 
-![Screenshot 2025-05-14 231316](https://github.com/user-attachments/assets/ea4feaaf-6c87-4748-b142-143d9815ca04)
+## Schematic
+![Schematic diagram](https://github.com/user-attachments/assets/3e93d4e1-6c07-40ea-888b-154c59bae4c4)
 
 ![Dashboard Overview]( )
-![Screenshot 2025-05-14 231455](https://github.com/user-attachments/assets/042b29fb-b3cb-4722-83c6-0f55fc37e39b)
-
 *Dashboard displaying real-time sensor data and control options.*
 
+![Screenshot 2025-05-14 231316](https://github.com/user-attachments/assets/ea4feaaf-6c87-4748-b142-143d9815ca04)
+
+![Screenshot 2025-05-14 231455](https://github.com/user-attachments/assets/042b29fb-b3cb-4722-83c6-0f55fc37e39b)
+
 ![Hardware Setup](images/hardware!)
-*![hardware](https://github.com/user-attachments/assets/ed3fbd6d-7fc3-4dc2-9fab-75181cac35b0)
-ESP32 connected with sensors and actuators.*
+*ESP32 connected with sensors and actuators.*
+
+![hardware](https://github.com/user-attachments/assets/ed3fbd6d-7fc3-4dc2-9fab-75181cac35b0)
+
+![hardwaree](https://github.com/user-attachments/assets/f3fee3d1-3106-4e39-97c7-7fcb35c79fdf)
 
 
 
 
+##Youtube Link
+
+![mqdefault](https://github.com/user-attachments/assets/dd499b2e-8611-4829-8355-7ff3a94875b1)
 
 
 
