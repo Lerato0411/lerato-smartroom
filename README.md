@@ -110,12 +110,11 @@ This project enables automated control of room lighting and fan speed based on a
 
 
 
-##Youtube Link
+## Youtube Link
 
 ![mqdefault](https://github.com/user-attachments/assets/dd499b2e-8611-4829-8355-7ff3a94875b1)
 
-
-
+https://www.youtube.com/watch?v=kWLnKIRkO7U
 
 
 
